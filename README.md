@@ -36,6 +36,7 @@ I am El Mehdi Mallah, a computer science graduate from 1337. I am a tech enthusi
 
 # My Stats: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="50" />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mallah-elmehdi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallah-elmehdi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mallah-elmehdi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallah-elmehdi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php,pug)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallah-elmehdi&theme=dark)](https://git.io/streak-stats)
 
