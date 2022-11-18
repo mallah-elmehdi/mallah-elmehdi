@@ -1,28 +1,41 @@
-### Hi there 👋
+# What's up! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="50" />
+I am El Mehdi Mallah, a computer science graduate from 1337. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-<!--
-**mallah-elmehdi/mallah-elmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/elmehdimallah@gmail.com-elmehdimallah?style=for-the-badge&logo=Gmail&logoColor=white&color=red)](mailto:elmehdimallah@gmail.com "Connect via Email") [![Linkedin Badge](https://img.shields.io/badge/mallah%20el%20mehdi-elmehdimallah?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/mallah-elmehdi/ "Connect via LinkedIn") [![Instagram Badge](https://img.shields.io/badge/mallah_el_mehdi-elmehdimallah?style=for-the-badge&logo=Instagram&logoColor=white&color=purple)](https://www.instagram.com/mallah_el_mehdi/ "Connect on Instagram") [![Messenger Badge](https://img.shields.io/badge/mallahelmehdi-elmehdimallah?style=for-the-badge&logo=Messenger&logoColor=white&color=blue)](https://m.me/mallahelmehdi "Connect on Facebook")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-- 🌱 I’m Currently Learning at <a href="https://1337.ma/en">1337</a>
-- 📫 How to reach me: mallahelmehdi@gmail.com
+# Things I use on a daily basis <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />
 
-### Connect with me:
-[<img align="left" alt="mallah-elmehdi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" />][linkedin]
-[![views](https://komarev.com/ghpvc/?username=mallah-elmehdi&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/mallah-elmehdi/)
-<br />
-<br />
-<img align="center" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mallah-elmehdi&show_icons=true&hide_border=true" />
+<p align="left">  
 
-[linkedin]: https://www.linkedin.com/in/mallah-elmehdi/
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  </a>
+
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=E9F612">
+  </a>
+
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  </a>
+
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=df5c43">  
+  </a>
+
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2d79c7">
+  </a>
+  
+   <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Mongodb&svgfill=659b60">
+  </a>
+</p>
+
+# My Stats: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="50" />
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mallah-elmehdi&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallah-elmehdi&hide=TeX&layout=compact)
+
